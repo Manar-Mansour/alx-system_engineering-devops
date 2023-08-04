@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 753 hello \ touch -d "Sep 20 14:15" hello
+chmod 0753 hello & touch -d "Sep 20 14:15" hello
